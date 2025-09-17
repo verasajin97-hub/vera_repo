@@ -1,4 +1,4 @@
 # vera_repo
-Database management repository-bye world.
+Database management repository -Hello world.
 This is my first repository. 
 New comments.
